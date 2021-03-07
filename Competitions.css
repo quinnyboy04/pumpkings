@@ -151,8 +151,8 @@
 .u-section-2 .u-image-1 {
   min-height: 431px;
   pointer-events: auto;
-  background-image: url("images/KnightsAndDragons.png");
-  background-position: 58.51% 50%;
+  background-image: url("images/AdventureTime1.png-000002.png");
+  background-position: 23.46% 67.52%;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -175,6 +175,7 @@
 
   .u-section-2 .u-image-1 {
     min-height: 355px;
+    background-size: auto 110%;
   }
 }
 
